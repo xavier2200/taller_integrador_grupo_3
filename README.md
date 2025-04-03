@@ -78,6 +78,16 @@ Para la siguiente sección del proyecto, se realizó una implementación con un 
 
 
 Para configurar correctamente el dispositivo, se hizo uso de la extensión Platformio de Visual Studio. Luego de cargar el programa al dispositivo, se ingresó a la dirección IP dada por este, en donde fue posible configurar la red wifi a la que se conectara, junto con la contraseña y SSID propio del módulo. Al cargar correctamente la extensión de platformio en VS, se cargará un ícono, tal como se muestra a continuación.
+## Configuración de la estación
+
+![image](https://github.com/user-attachments/assets/f1da24cd-7169-4ba8-bb40-659d25355c9a)
+
+![image](https://github.com/user-attachments/assets/ed3c4ca0-fa88-4f92-8407-a4173760f215)
+
+![image](https://github.com/user-attachments/assets/cd8f79ca-f3ee-42a3-b70d-1b08e4c66d75)
+
+
+
 
 
 # Bibliografía
