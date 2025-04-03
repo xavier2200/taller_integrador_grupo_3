@@ -83,10 +83,15 @@ Para configurar correctamente el dispositivo, se hizo uso de la extensión Platf
 # Bibliografía
 
 [1] C. de Radio Experimentadores. “Que es y cómo funciona el sistema APRS.” [Online]. (2024), direccion: https://crecj.org/que-es-y-como-funciona-el-sistema-aprs/.
+
 [2] R. C. Capitol. “Guía definitiva de APRS para radioaficionados.” [Online]. (s.f.), direccion: https : / / www.radioclubcapitol.es/formacion/aprs/guia-aprs.
+
 [3] A. Secure. “LORA: Que es y para que sirve?” [Online].(s.f.), direccion: https://alaisecure.es/glosario/lora-que-es-y-para-que-sirve/.
+
 [4] C. Sensors. “Tecnolog´ıa LORA y LORAWAN.” [Online].(s.f.), direccion: https://www.catsensors.com/es/lorawan/tecnologia-lora-y-lorawan.
+
 [5] Semtech. “La tecnología LoRa esta conectando nuestro planeta inteligente.” [Online]. (s.f.), direccion: https://www.semtech.com/lora/lora-applications.
+
 [6] M. de Ciencia Innovacion Tecnología y Telecomunicaciones. “Cuadro Nacional de Atribucion de Frecuencias del PNAF.” Decreto No 44010-MICITT, Alcance no 99 a la Gaceta no 95, 30 de mayo. (2023).
 
 # Informe escrito: 
