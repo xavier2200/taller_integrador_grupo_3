@@ -99,5 +99,5 @@ https://www.overleaf.com/read/qsrhzgrrwdwn#01a2f4
 
 
 
-# Código basado en el repositorio de Richon Guzmán (cŕeditos): 
+# Código basado en el repositorio de Richon Guzmán (créditos): 
 https://github.com/richonguzman/LoRa_APRS_iGate
