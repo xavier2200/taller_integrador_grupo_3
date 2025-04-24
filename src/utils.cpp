@@ -61,14 +61,14 @@ namespace Utils {
         }
         if (WiFi.status() == WL_CONNECTED && Config.aprs_is.active && Config.beacon.sendViaAPRSIS) {
             delay(1000);
-            status.concat(",qAC:>https://github.com/richonguzman/LoRa_APRS_iGate ");
+            status.concat(",qAC:>https://github.com/xavier2200/taller_integrador_grupo_3.git ");
             status.concat(versionDate);
             APRS_IS_Utils::upload(status);
             SYSLOG_Utils::log(2, status, 0, 0.0, 0);   // APRSIS TX
             statusAfterBoot = false;
         }
         if (statusAfterBoot && !Config.beacon.sendViaAPRSIS && Config.beacon.sendViaRF) {
-            status.concat(":>https://github.com/richonguzman/LoRa_APRS_iGate ");
+            status.concat(":>https://github.com/xavier2200/taller_integrador_grupo_3.git ");
             status.concat(versionDate);
             STATION_Utils::addToOutputPacketBuffer(status);
             statusAfterBoot = false;
